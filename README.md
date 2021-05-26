@@ -13,3 +13,6 @@ Alternatively, you can run the setup.sh script, which will download and store th
 ./setup.sh
 
 This will create a folder called "static_archive" will all the necessary files downloaded and with readonly privileges.
+
+
+## Readability Scores
