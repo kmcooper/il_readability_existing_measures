@@ -14,5 +14,7 @@ Alternatively, you can run the setup.sh script, which will download and store th
 
 This will create a folder called "static_archive" will all the necessary files downloaded and with readonly privileges.
 
+You should also download and install the *readability* package from PyPI: https://pypi.org/project/readability/
+
 
 ## Readability Scores
