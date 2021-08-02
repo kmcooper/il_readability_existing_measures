@@ -39,7 +39,15 @@ This is hard-coded into the Python script (yes, this code is very hack-y) so you
 Running this script will take some time and will generate a file that is approximately **X** in size.
 
 ## Validation
-If you are using an updated version of the Branded Foods database or the readability library, here's a simple and quick check you can use to ensure the measures have not changed significantly:
+If you are using an updated version of the Branded Foods database or the readability library, here's a simple and quick check you can use to ensure the measures have not changed significantly using the GitHub Terms of Serive Summary, below:
+"*Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.*"
+
+#### Readability Metrics Using PyPI Readability Index:
+
+#### Readability Metrics Using Online Tool:
+
+
+
 
 ### Further Reading/Future Work
 Some interesting literature that might spark ideas on how one might expand this work are listed below:
