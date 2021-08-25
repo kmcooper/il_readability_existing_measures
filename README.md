@@ -47,7 +47,7 @@ If you are using an updated version of the Branded Foods database or the readabi
 #### Readability Metrics Using Online Tool:
 
 
-### License
+## License
 This repo uses the [GNU General Public License v 3.0](https://github.com/kmcooper/il_readability_existing_measures/blob/main/LICENSE)
 
 ### Further Reading/Future Work
