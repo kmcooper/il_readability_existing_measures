@@ -48,7 +48,7 @@ If you are using an updated version of the Branded Foods database or the readabi
 
 
 ### License
-This repo uses the (GNU General Public License v 3.0)[LICENSE]
+This repo uses the [GNU General Public License v 3.0](https://github.com/kmcooper/il_readability_existing_measures/blob/main/LICENSE)
 
 ### Further Reading/Future Work
 Some interesting literature that might spark ideas on how one might expand this work are listed below:
