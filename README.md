@@ -50,7 +50,7 @@ If you are using an updated version of the Branded Foods database or the readabi
 ## License
 This repo uses the [GNU General Public License v 3.0](https://github.com/kmcooper/il_readability_existing_measures/blob/main/LICENSE)
 
-### Further Reading/Future Work
+## Further Reading/Future Work
 Some interesting literature that might spark ideas on how one might expand this work are listed below:
 - Zhou, S., Jeong, H., & Green, P. A. (2017). How consistent are the best-known readability equations in estimating the readability of design standards?. IEEE Transactions on Professional Communication, 60(1), 97-111.
 - Redish, J. C. (1981). Understanding the limitations of readability formulas. IEEE transactions on professional communication, (1), 46-48.
