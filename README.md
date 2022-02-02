@@ -36,7 +36,11 @@ This is hard-coded into the Python script (yes, this code is very hack-y) so you
 - SMOG	
 - RIX	
 - Dale
-Running this script will take some time and will generate a file that is approximately **X** in size.
+Running this script will take some time (it is not particularly efficient) and will generate a file that is approximately **32 MB** in size, based on the October 2020 version of the Food Data Central database.
+
+## Parsing Each Readability Score
+The file `readability_measures.csv` can be manipulated/analyzed in your favorite spreadsheet program or you can generate graphs similar to the ones in the paper using more Python scripts with `readability_measures.csv` as input.
+*Under construction*
 
 ## Validation
 If you are using an updated version of the Branded Foods database or the readability library, here's a simple and quick check you can use to ensure the measures have not changed significantly using the GitHub Terms of Serive Summary, below:
