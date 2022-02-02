@@ -40,7 +40,15 @@ Running this script will take some time (it is not particularly efficient, but s
 
 ## Parsing Each Readability Score
 The file `readability_measures.csv` can be manipulated/analyzed in your favorite spreadsheet program or you can generate graphs similar to the ones in the paper using more Python scripts with `readability_measures.csv` as input.
+
+### Metrics used in our AMIA Informatics 2022 Paper
+1. Gunning Fog Index
+2. ARI
+3. LIX
+4. Flesch-Kincaid Reading Ease
 *Under construction*
+
+## Readability Scores
 
 ## Validation
 If you are using an updated version of the Branded Foods database or the readability library, here's a simple and quick check you can use to ensure the measures have not changed significantly using the GitHub Terms of Serive Summary, below:
