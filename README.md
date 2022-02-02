@@ -36,7 +36,7 @@ This is hard-coded into the Python script (yes, this code is very hack-y) so you
 - SMOG	
 - RIX	
 - Dale
-Running this script will take some time (it is not particularly efficient) and will generate a file that is approximately **32 MB** in size, based on the October 2020 version of the Food Data Central database.
+Running this script will take some time (it is not particularly efficient, but should finish in <1 hour) and will generate a file that is approximately **32 MB** in size, based on the October 2020 version of the Food Data Central database.
 
 ## Parsing Each Readability Score
 The file `readability_measures.csv` can be manipulated/analyzed in your favorite spreadsheet program or you can generate graphs similar to the ones in the paper using more Python scripts with `readability_measures.csv` as input.
