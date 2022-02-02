@@ -6,6 +6,12 @@
 #
 # NOTE: You will want to uncomment these
 # commands so they can run
+# 
+# NOTE 2: I know this could go in the README
+# but I prefer it in the script so I dont have
+# code that is commented out in my README.
+# Sorry!
+# 
 #
 ###############################
 mkdir static_archive
