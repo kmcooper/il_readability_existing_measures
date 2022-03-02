@@ -43,3 +43,5 @@ while(line):
                         str(read['readability grades']['DaleChallIndex']))
         line = contents.readline()
         counter += 1
+        
+     
